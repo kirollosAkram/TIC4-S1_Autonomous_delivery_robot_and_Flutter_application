@@ -71,7 +71,7 @@ Le prototype robotique utilise une carte Arduino pour traiter les informations d
 
 ### Schéma du circuit Arduino
 
-![Circuit Arduino du robot mobile autonome](Robot%20Circuit/Autonomous%20Robot.png)
+![Circuit Arduino du robot mobile autonome](Robot Circuit/Autonomous Robot.png)
 
 *Circuit de commande du robot comprenant l'Arduino, le pilote de moteurs, les capteurs et les éléments de signalisation.*
 
@@ -163,7 +163,7 @@ The robotic prototype uses an Arduino board to process sensor readings and contr
 
 ### Arduino Circuit Diagram
 
-![Arduino circuit of the autonomous mobile robot](Robot%20Circuit/Autonomous%20Robot.png)
+![Arduino circuit of the autonomous mobile robot](Robot Circuit/Autonomous Robot.png)
 
 *Arduino-based control circuit featuring the motor driver, sensors, and audible and visual indicators.*
 
